@@ -2,7 +2,7 @@ Here's a comprehensive `README.md` file for your project:
 
 ---
 
-# Image Synthesis Using P
+# Image Synthesis 
 
 ## Overview
 
